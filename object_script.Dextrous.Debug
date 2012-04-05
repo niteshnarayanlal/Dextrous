@@ -1,0 +1,15 @@
+INPUT(
+./debug\dextrous.o
+./debug\facebookwindow.o
+./debug\login.o
+./debug\main.o
+./debug\marketcart.o
+./debug\musicsearchwindow.o
+./debug\twitterwindow.o
+./debug\moc_dextrous.o
+./debug\moc_facebookwindow.o
+./debug\moc_login.o
+./debug\moc_marketcart.o
+./debug\moc_musicsearchwindow.o
+./debug\moc_twitterwindow.o
+);

@@ -1,0 +1,8 @@
+This is a mini cross platform application which servers the following application :
+*Facebook status update
+*searching item on ecommerce websites
+*searching music 
+*View news on indiatimes
+*Tweets Viewer
+
+This can be used by compiling the source code using qmake .

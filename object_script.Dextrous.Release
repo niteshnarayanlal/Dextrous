@@ -1,0 +1,15 @@
+INPUT(
+./release\dextrous.o
+./release\facebookwindow.o
+./release\login.o
+./release\main.o
+./release\marketcart.o
+./release\musicsearchwindow.o
+./release\twitterwindow.o
+./release\moc_dextrous.o
+./release\moc_facebookwindow.o
+./release\moc_login.o
+./release\moc_marketcart.o
+./release\moc_musicsearchwindow.o
+./release\moc_twitterwindow.o
+);
